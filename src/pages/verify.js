@@ -25,7 +25,7 @@ const Verify = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50">
+    <div className="min-h-screen flex items-center justify-center bg-gray-50 text-black">
       <div className="max-w-md w-full p-6 bg-white rounded-md shadow-md">
         <h1 className="text-2xl font-semibold mb-4">Verification Page</h1>
         <p className="mb-4">
